@@ -1,3 +1,3 @@
 resource "aiven_organization" "main" {
-  name = "Organization"
+  name = "Example organization"
 }
