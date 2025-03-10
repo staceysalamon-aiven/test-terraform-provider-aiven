@@ -1,3 +1,3 @@
 resource "aiven_organization" "org" {
-  name = "Example organization at 1637"
+  name = "Example organization at 0944"
 }
