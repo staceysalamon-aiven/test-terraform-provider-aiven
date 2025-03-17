@@ -1,5 +1,9 @@
 # Get started with Aiven Provider for Terraform 
 
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
 Set up your organization on Aiven, and create your first project and user group.
 
 This example creates a project and user group in your organization, and gives the group access to the project. You can add users who are already part of your organization. Users can be added in the Aiven Console either manually by [sending them an invite](https://aiven.io/docs/platform/howto/manage-org-users), or you can [create managed users](https://aiven.io/docs/platform/concepts/managed-users) by verifying a domain and setting up an identity provider.
