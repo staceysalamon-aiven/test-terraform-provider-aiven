@@ -1,4 +1,4 @@
 resource "aiven_organizational_unit" "example_unit" {
-  name      = "Example organizational unit - changed name at 16:10"
+  name      = "Example organizational unit"
   parent_id = aiven_organization.main.org_id
 }
