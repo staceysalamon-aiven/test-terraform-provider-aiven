@@ -4,7 +4,7 @@ go 1.23
 
 require (
 	github.com/aiven/go-utils/selproj v0.1.0
-	github.com/golangci/golangci-lint v1.63.5
+	github.com/golangci/golangci-lint v1.63.4
 	github.com/hashicorp/terraform-plugin-docs v0.20.1
 	github.com/katbyte/terrafmt v0.5.5
 	github.com/vektra/mockery/v2 v2.52.1
